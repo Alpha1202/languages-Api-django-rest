@@ -1,0 +1,6 @@
+import requests
+
+headers = {}
+headers['Authorization'] = 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTcwMDk5NTQyLCJqdGkiOiIxYTEzMTU2NjM0ZDU0ZTc3YmRjNzdkM2E1YjFiNjMzYSIsInVzZXJfaWQiOjF9.AbrI5Z_NecXGbXbWv1fybY0406rPNThyd_v6i8S1kcs'
+
+r = requests.get()
